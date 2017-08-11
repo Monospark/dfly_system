@@ -1,0 +1,10 @@
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info/
+
+# IntelliJ
+.idea/
+*.iml
+
