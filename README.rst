@@ -21,3 +21,5 @@ WSR only commands:
 - *quit* - quits
 - *stop listening* - disables all grammars until it's woken up again
 - *wake up* - enables all the previously disabled grammars
+
+The translated commands for other languages can be found in the *translations* directory.
